@@ -8,5 +8,6 @@ https://gist.githubusercontent.com/alacerda/48ef36a42b86a5d81b83937ee00a2a2d/raw
 
 https://adsecurity.org/?p=478
 
+https://gist.github.com/alacerda/c8c6c33f3a8940bb71cb3b902edb33bc
 
 eum-qer8axu7DVB@act
